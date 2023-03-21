@@ -1,10 +1,10 @@
 ---
 title: 你好，世界！
-date: 2022-03-26 10:34:00 +0800
+date: 2023-03-21 16:14:00 +0800
 categories: [随笔]
 tags: [生活]
 pin: true
-author: 湾区书记汤姆
+author: zhu
 
 toc: true
 comments: true
@@ -12,13 +12,11 @@ typora-root-url: ../../tomstillcoding.github.io
 math: false
 mermaid: true
 
-image:
-  src: /assets/blog_res/2021-03-30-hello-world.assets/huoshan.jpg
-  alt: 签约成功
+
 
 ---
 
-# 感谢关注～ 
+# 大标题～ 
 
 
 这里可以放代码片段噢～
@@ -29,6 +27,5 @@ int main(){
 }
 ```
 
-![image-20220327184021601](/assets/blog_res/2021-03-30-hello-world.assets/image-20220327184021601.png)
+![MG_273](/../zhujiangbo.github.io/_posts/2023-03-21-first-post.assets/IMG_2734.JPG)
 
-![Screen Shot 2022-04-03 at 11.46.41 AM](/assets/blog_res/2021-03-30-hello-world.assets/Screen Shot 2022-04-03 at 11.46.41 AM.png)
