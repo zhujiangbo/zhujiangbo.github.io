@@ -8,7 +8,7 @@ author: zhu
 
 toc: true
 comments: true
-typora-root-url: ../../tomstillcoding.github.io
+typora-root-url: ../../zhujiangbo.github.io
 math: false
 mermaid: true
 
